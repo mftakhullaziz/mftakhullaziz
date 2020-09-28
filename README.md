@@ -10,8 +10,8 @@
 
 ### 🌱 Programming Language
 
-> 💡 Javascript
-> 💡 Python
+> Javascript
+>Python
 >  Java
 >  Dart
 >  Php
