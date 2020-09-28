@@ -15,6 +15,8 @@
 4. Dart
 5. Php
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mift019)](https://github.com/mift019/github-readme-stats)
+
 
 <!--
 **mift019/mift019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
