@@ -5,15 +5,16 @@
 > 💡 Fullstack & Mobile Dev  
 > ⭐ Deep Learning
 
+
 <img float="left" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=vue&show_icons=true" />
 
 ### 🌱 Programming Language
 ```
-1. Javascript
-2. Python
-3. Java
-4. Dart
-5. Php
+> Javascript
+> Python
+> Java
+> Dart
+> Php
 ```
 
 
