@@ -5,7 +5,7 @@
 > 💡 Fullstack & Mobile Dev  
 > ⭐ Deep Learning
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=mift019&theme=dark&show_icons=true" />
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=dark&show_icons=true" />
 
 ### 🌱 Programming Language
 ```
