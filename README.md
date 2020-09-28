@@ -6,7 +6,7 @@
 > ⭐ Deep Learning
 
 
-<img float="right" height="250em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=default&show_icons=true" />
+<img float="right" margin-right="20em" height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=default&show_icons=true" />
 
 ### 🌱 Programming Language
 ```
