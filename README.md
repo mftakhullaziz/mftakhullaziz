@@ -5,7 +5,7 @@
 > 💡 Fullstack & Mobile Dev  
 > ⭐ Deep Learning
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=dark&show_icons=true" />
+<img float="left" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=vue&show_icons=true" />
 
 ### 🌱 Programming Language
 ```
@@ -15,7 +15,6 @@
 4. Dart
 5. Php
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mift019)](https://github.com/mift019/github-readme-stats)
 
 
 <!--
