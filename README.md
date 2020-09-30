@@ -10,11 +10,18 @@
 
 ### 🌱 Programming Language
 ```
-1. Javascript
+1. Js
 2. Python
 3. Java
 4. Dart
 5. Php
+```
+
+### 🌱 Frameworks
+```
+1. Node js
+2. Laravel
+3. React js
 ```
 
 
