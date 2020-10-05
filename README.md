@@ -2,8 +2,8 @@
 
 ### I am Miftakhul Aziz ✨ 
 
-> 💡 Fullstack & Mobile Dev  
-> ⭐ Deep Learning
+> 💡 Backend & Mobile Dev  
+> ⭐ Deep Learning Enthusiast
 
 
 <img float="right" margin-right="20em" height="150em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=mift019&theme=default&show_icons=true" />
@@ -17,11 +17,12 @@
 5. Php
 ```
 
-### 🌱 Frameworks
+### ⚡ Familiar Frameworks
 ```
 1. Node js
-2. Laravel
-3. React js
+2. TensorFlow
+3. Laravel
+4. React js
 ```
 
 
