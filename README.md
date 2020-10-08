@@ -6,23 +6,16 @@
 > ⭐ Deep Learning Enthusiast
 
 
-<img float="right" margin-right="20em" height="200em" width="300em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=miftakhulaziz03&theme=default&show_icons=true" />
+<img float="right" margin-right="20em" height="240em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=miftakhulaziz03&theme=default&show_icons=true" />
 
 ### 🌱 Programming Language
 ```
-1. Js
-2. Python
-3. Java
-4. Dart
-5. Php
+Js | Python | Java | Dart | Php
 ```
 
 ### ⚡ Familiar Frameworks
 ```
-1. Node js
-2. TensorFlow
-3. Laravel
-4. React js
+Node js | TensorFlow | Laravel | React js
 ```
 
 
