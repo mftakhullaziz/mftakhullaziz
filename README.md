@@ -7,6 +7,7 @@
 
 
 <img float="right" margin-right="20em" height="240em" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=miftakhulaziz03&theme=default&show_icons=true" />
+<img float="right" margin-right="20em" height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" />
 
 ### 🌱 Programming Language
 ```
