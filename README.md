@@ -10,7 +10,7 @@
 
 ### 🌱 Programming Language
 ```
-Js | Python | Java | Dart | Php
+JS | PYTHON | JAVA | DART | PHP
 ```
 
 ### ⚡ Familiar Frameworks
