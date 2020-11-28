@@ -9,7 +9,7 @@
 
 ### 🌱 Programming Language
 ```
-Javascript | Python | Dart
+Python Programming 
 ```
 
 ### ⚡ Familiar Frameworks
