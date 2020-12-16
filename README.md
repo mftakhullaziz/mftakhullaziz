@@ -1,5 +1,5 @@
 ## Hi there 👋
-# MIFTAKHUL AZIZ
+# I am Miftakhul Aziz
 
 ### Backend & AI 
 
