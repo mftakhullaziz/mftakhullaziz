@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-### I am Miftakhul Aziz ✨ 
+## Miftakhul Aziz ✨ 
 
-> 💡  Backend AI
+> 💡  Backend & AI 
 
 <img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=miftakhulaziz03&theme=default&show_icons=false" />
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
-### 🌱 Programming Language
+## 🌱 Programming Language
 ```
 Python | Go | Js | PHP
 ```
 
-### ⚡ Familiar Frameworks
+## ⚡ Familiar Frameworks
 ```
 Node js | TensorFlow | Laravel | React js
 ```
