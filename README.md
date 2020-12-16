@@ -4,7 +4,7 @@
 
 > 💡  Backend & AI 
 
-<img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=miftakhulaziz03&theme=dark&show_icons=true" />
+<img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=miftakhulaziz03&theme=light&show_icons=true" />
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
 ## 🌱 Programming Language
