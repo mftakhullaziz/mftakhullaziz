@@ -9,7 +9,7 @@
 
 ### 🌱 Programming Language
 ```
-Python Programming 
+Python | Go | Js | PHP
 ```
 
 ### ⚡ Familiar Frameworks
