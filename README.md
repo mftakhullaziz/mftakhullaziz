@@ -7,12 +7,12 @@
 
 ## 🌱 programming language
 ```
-python | golang | javascript
+python | javascript | php | java
 ```
 
 ## ⚡ frameworks
 ```
-node js | tensorFlow | laravel | react js | django
+node js | express js | reactjs | tensorFlow | laravel | django
 ```
 
 ## 👯 cloud computing
