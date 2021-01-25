@@ -7,7 +7,7 @@
 
 ## 🌱 programming language
 ```
-python | javascript | php | java
+python | go | javascript | java
 ```
 
 ## ⚡ frameworks
