@@ -1,7 +1,7 @@
 ### Hi everyone, I'm Aziz, 👋
 
 ## 
-<img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=miftakhulaziz03&theme=light&show_icons=true" />
+
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
 ### 🌱 programming language
@@ -14,11 +14,11 @@ python | go | javascript | java
 node js | reactjs | tensorFlow | django
 ```
 
-### 👯 cloud computing
+### 👯 clouds
 ```
 firebase | mongodb atlas | aws | mLab | google colab
 ```
-
+<img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=miftakhulaziz03&theme=light&show_icons=true" />
 
 <!--
 **mift019/mift019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
