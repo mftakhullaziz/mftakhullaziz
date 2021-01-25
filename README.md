@@ -1,21 +1,20 @@
-## Hi There 👋
-# I'm Miftakhul Aziz
+### Hi everyone, I'm Aziz, 👋
 
 ## 
 <img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=miftakhulaziz03&theme=light&show_icons=true" />
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
-## 🌱 programming language
+### 🌱 programming language
 ```
 python | go | javascript | java
 ```
 
-## ⚡ frameworks
+### ⚡ frameworks
 ```
-node js | express js | reactjs | tensorFlow | laravel | django
+node js | reactjs | tensorFlow | django
 ```
 
-## 👯 cloud computing
+### 👯 cloud computing
 ```
 firebase | mongodb atlas | aws | mLab | google colab
 ```
