@@ -1,18 +1,22 @@
 ### Hi everyone, I'm Aziz, 👋
 
+Data Scientist / Machine Learning / Deep Learning 
+
 ## 
 
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
-### 🌱 programming language
+### 🌱 Programming
 ```
 Python | Javascript
 ```
 
-### ⚡ frameworks
+### ⚡ Frameworks
 ```
-Node Js | TensorFlow
+Node Js | TensorFlow | Keras
 ```
+
+### Stat's
 
 <img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=miftakhulaziz03&theme=light&show_icons=true" />
 
