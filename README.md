@@ -13,7 +13,7 @@ Python | Javascript
 ```
 Node Js | TensorFlow
 ```
-```
+
 <img float="right" margin-right="0em" width="100%" height="10%" src="https://github-readme-stats.vercel.app/api?hide_border=false&username=miftakhulaziz03&theme=light&show_icons=true" />
 
 <!--
