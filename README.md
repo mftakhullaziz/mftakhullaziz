@@ -16,11 +16,10 @@ Python | Javascript
 Node Js | Django | Flask
 ```
 
-### ⚡ Machine Learning/Data Scientist/Deep Learning
+### ⚡ ML-DS-DL
 ```
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
 ```
-
 ## 
 
 ### Stat's
