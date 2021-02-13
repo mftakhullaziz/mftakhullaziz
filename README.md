@@ -13,10 +13,10 @@ Python | Javascript
 
 ### ⚡ Frameworks
 ```
-Node Js | TensorFlow | Keras
+Node Js | Django | Flask
 ```
 
-### ⚡ Machine Learning / Data Scientist / Deep Learning
+### ⚡ Machine Learning/Data Scientist/Deep Learning
 ```
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
 ```
