@@ -15,6 +15,12 @@ Python | Javascript
 ```
 Node Js | TensorFlow | Keras
 ```
+
+### ⚡ Machine Learning / Data Scientist / Deep Learning
+```
+TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
+```
+
 ## 
 
 ### Stat's
