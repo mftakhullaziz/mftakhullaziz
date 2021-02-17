@@ -1,6 +1,6 @@
 ### Hi everyone, I'm [MIFTAKHUL_AZIZ] 👋
 
-Data Scientist / Machine Learning / Deep Learning 
+
 
 ## 
 
@@ -16,9 +16,10 @@ Python | Javascript
 Node Js | Django | Flask
 ```
 
-### ⚡ ML-DS-DL
+### 👯 Data Scientist / Machine Learning / Deep Learning 
 ```
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
+
 ```
 ## 
 
