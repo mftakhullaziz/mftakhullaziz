@@ -6,21 +6,22 @@
 
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
-### 🌱 Programming
+### Data Scientist / Machine Learning / Deep Learning 
+```
+TensorFlow | Keras | Pandas | Numpy | Scikit-Learn 
+Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
+```
+
+### Programming
 ```
 Python | Javascript
 ```
 
-### ⚡ Frameworks
+### Frameworks
 ```
 Node Js | Django | Flask
 ```
 
-### 👯 Data Scientist / Machine Learning / Deep Learning 
-```
-TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
-
-```
 ## 
 
 ### Stat's
