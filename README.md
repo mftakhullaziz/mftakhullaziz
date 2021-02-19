@@ -8,7 +8,7 @@
 
 ### Data Scientist / Machine Learning / Deep Learning 
 ```
-TensorFlow | Keras | Pandas | Numpy | Scikit-Learn 
+TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy
 Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
 ```
 
