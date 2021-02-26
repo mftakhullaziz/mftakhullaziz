@@ -1,4 +1,4 @@
-# Hi everyone, I'm Miftakhul Aziz 👋
+# Hi All, I'm Miftakhul Aziz 👋
 
 
 
