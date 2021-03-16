@@ -1,4 +1,5 @@
- Hi I'm Miftakhul Aziz 👋
+ Hi There 👋
+ Miftakhul Aziz - @miftakhulaziz03
 
 
 
@@ -6,28 +7,29 @@
 
 <!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
 
-### Data Scientist / Machine Learning / Deep Learning 
+#### Data Scientist / Machine Learning / Deep Learning 
 ```
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy
 Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
 ```
 
-### Programming
+#### Programming
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 
 
-### Frameworks
+#### Frameworks
 ```
 Node Js | Django | Flask
 ```
 
 ## 
 
-### Stat's
+#### Stat's
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
