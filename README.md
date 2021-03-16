@@ -4,7 +4,10 @@
 
 #### Miftakhul Aziz - @miftakhulaziz03
 
-🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. 
+🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib.
+
+Follow me on :
+<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="python" width="60" height="60"/></a>
 
 
 ## 
