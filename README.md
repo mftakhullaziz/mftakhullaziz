@@ -13,7 +13,7 @@ Follow me on : <br> <br>
 
 ## 
 
-<!-- <img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" /> -->
+<img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" />
 
 #### Data Scientist / Machine Learning / Deep Learning 
 ```
