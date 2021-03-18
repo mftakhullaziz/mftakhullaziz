@@ -13,7 +13,6 @@ Follow me on : <br> <br>
 
 ## 
 
-<img float="right" margin-right="0em" width="50%" height="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&theme=default&show_icons=true" />
 
 #### Data Scientist / Machine Learning / Deep Learning 
 ```
@@ -59,12 +58,9 @@ Node Js | Django | Flask
 
 <p align="left">
 
-<img height="auto" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="auto" float="left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  
-<img height="auto"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact&langs_count=8&theme=algolia"/>
-
-<img height="auto"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-
+<img height="auto" float="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact&langs_count=8&theme=algolia"/>
 
 </p>
 <!--
