@@ -62,7 +62,7 @@ Node Js | Django | Flask
 <img height="auto" width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  
 <img height="auto"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact&langs_count=8&theme=algolia"/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!--
 **mift019/mift019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
