@@ -60,7 +60,7 @@ Node Js | Django | Flask
 
 ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
-![Miftakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftakhulaziz03&include_all_commits=true)
+![Miftakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftakhulaziz03&include_all_commits=true&count_private=true)
 
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 <img height="auto" float="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact&langs_count=8&theme=algolia"/>
