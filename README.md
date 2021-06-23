@@ -1,10 +1,10 @@
-## Hi There 👋
+## Hello World 👋
 
 ##
 
 #### Miftakhul Aziz - @miftakhulaziz03
 
-No Code 
+Main Character 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
 Follow me on : <br> <br>
