@@ -37,6 +37,7 @@ Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/tensorflow.svg" alt="python" width="60" height="60"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="60" height="60"/></a> &nbsp;
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> &nbsp;
 <a href="#" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> &nbsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> &nbsp;
