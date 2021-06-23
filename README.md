@@ -8,8 +8,8 @@ No Code
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
 Follow me on : <br> <br>
-<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a> &nbsp;
-<a href="https://github.com/miftakhulaziz03" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original-wordmark.svg" alt="github" width="60" height="60"/></a>
+<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="60"/></a> &nbsp;
+<a href="https://github.com/miftakhulaziz03" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original-wordmark.svg" alt="github" width="50" height="60"/></a>
 
 
 ## 
@@ -59,11 +59,11 @@ Node Js | Django | Flask
 
 <p align="left">
 
-<!-- https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true>-->
+https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true>
 
-![Miftakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftakhulaziz03&include_all_commits=true&count_private=true)
+<!-- ![Miftakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftakhulaziz03&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact)](https://github.com/miftakhulaziz03/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miftakhulaziz03&layout=compact)](https://github.com/miftakhulaziz03/) -->
 
 <!--
  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
