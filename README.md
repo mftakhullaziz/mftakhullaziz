@@ -2,9 +2,8 @@
 
 ##
 
-#### Miftakhul Aziz - @miftakhulaziz03
+#### Hi I'm AMIFT
 
-Main Character 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
 Follow me on : <br> <br>
@@ -15,10 +14,10 @@ Follow me on : <br> <br>
 ## 
 
 
-#### Data Scientist / Machine Learning / Deep Learning 
+#### Data Scientist | Machine Learning | Deep Learning | AI ENGINEER
 ```
-TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy
-Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly
+TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark
+Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | PYTHON 
 ```
 
 <!--
