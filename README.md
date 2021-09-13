@@ -28,7 +28,7 @@
 ### Skills Programming
 
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark |
-Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python 
+Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python | Go
 
 <!--
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -47,6 +47,7 @@ Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Pytho
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="60" height="60"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="java" width="60" height="60"/></a> &nbsp;
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> &nbsp;
 <a href="#" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> &nbsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> &nbsp;
