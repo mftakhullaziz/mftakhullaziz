@@ -2,8 +2,18 @@
 
 ##
 
-### Haiii I'm Amift
-#### #Pythonista
+### I'm Amift
+
+<!-- #### #Pythonista -->
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning artificial intelligence and fullstack data science
+<!-- - 👯 I’m looking to collaborate on github -->
+- 🤔 I’m looking for help with github stackoverflow and google
+- 💬 Ask me about coders, data science and future
+- 📫 How to reach me: can email me or dm me on instagram account https://instagram/amift_
+- 😄 Pronouns: phoneix
+- ⚡ Fun fact: funny, smart, good personality, out of the box
+
 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
