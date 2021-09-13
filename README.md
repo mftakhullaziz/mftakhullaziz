@@ -1,23 +1,23 @@
-## Hello Users 👋
+## Hello everyone 👋
 
 ##
 
-### I'm Amift
+### I'm Amift or amiftakhul
 
 <!-- #### #Pythonista -->
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning artificial intelligence and fullstack data science
 <!-- - 👯 I’m looking to collaborate on github -->
+- 🌱 I’m currently learning artificial intelligence and fullstack data science
 - 🤔 I’m looking for help with github stackoverflow and google
 - 💬 Ask me about coders, data science and future
-- 📫 How to reach me: can email me or dm me on instagram account https://instagram/amift_
+- 📫 How to reach me: can email me or dm me on instagram account https://www.instagram.com/amift_/
 - 😄 Pronouns: phoneix
-- ⚡ Fun fact: funny, smart, good personality, out of the box
+- ⚡ Fun fact: funny, smart, good personality, out of the box, photography, travelling
 
 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
-My LinkedIn Profile : <br> <br>
+### My LinkedIn Profile : <br> <br>
 <a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="40"/></a> &nbsp;
 <a href="https://github.com/miftakhulaziz03" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original-wordmark.svg" alt="github" width="30" height="40"/></a>
 
