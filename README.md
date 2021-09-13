@@ -2,22 +2,22 @@
 
 ##
 
-#### Hi I'm Amift
-##### #Pythonista
+### Haiii I'm Amift
+#### #Pythonista
 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
-Follow me on : <br> <br>
-<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="60"/></a> &nbsp;
-<a href="https://github.com/miftakhulaziz03" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original-wordmark.svg" alt="github" width="50" height="60"/></a>
+My LinkedIn Profile : <br> <br>
+<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="40"/></a> &nbsp;
+<a href="https://github.com/miftakhulaziz03" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original-wordmark.svg" alt="github" width="30" height="40"/></a>
 
 
 ## 
 
 
-#### Skills Programming
+### Skills Programming
 
-TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark
+TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark |
 Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python 
 
 <!--
@@ -55,12 +55,12 @@ Node Js | Django | Flask
 -->
 ## 
 
-#### Stat's
+### Stat's
 
 <p align="left">
 
 <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true> -->
-![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=white&include_all_commits=true&count_private=true)
+![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
  
 <!-- ![Miftakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftakhulaziz03&include_all_commits=true&count_private=true)
 
