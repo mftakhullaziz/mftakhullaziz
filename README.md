@@ -2,7 +2,8 @@
 
 ##
 
-#### Hi I'm AMIFT
+#### Hi I'm Amift
+##### #Pythonista
 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
@@ -14,10 +15,10 @@ Follow me on : <br> <br>
 ## 
 
 
-#### Data Scientist | Machine Learning | Deep Learning | AI ENGINEER
+#### Skills Programming
 ```
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark
-Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | PYTHON 
+Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python 
 ```
 
 <!--
@@ -28,7 +29,7 @@ Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | PYTHO
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 -->
 
-#### Programming
+<!-- #### Programming -->
 
 <br>
 <p align="left">
