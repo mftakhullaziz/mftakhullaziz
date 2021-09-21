@@ -25,7 +25,7 @@
 ## 
 
 
-### Skills Programming
+### Familiar
 
 TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark |
 Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python | Go
