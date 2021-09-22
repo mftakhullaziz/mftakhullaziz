@@ -1,4 +1,4 @@
-# Hi, I'm Miftakhul Aziz, a Data Science Engineer 🚀 from Indonesia. 👋
+# Hi, I'm Mifta, a Data Science Engineer 🚀 from Indonesia. 👋
 
 <!-- ## -->
 
@@ -7,12 +7,13 @@
 <!-- #### #Pythonista -->
 <!-- - 🔭 I’m currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on github -->
--  I’m currently learning artificial intelligence and fullstack data science
+<!-- -  I’m currently learning artificial intelligence and fullstack data science
 -  I’m looking for help with github stackoverflow and google
 -  Ask me about coders, data science and future
 -  How to reach me: can email me or dm me on instagram account https://www.instagram.com/amift_/
 -  Pronouns: phoneix
--  Fun fact: funny, smart, good personality, out of the box, photography, travelling
+-  Fun fact: funny, smart, good personality, out of the box, photography, travelling -->
+A Bachelor's degree in Informatics Engineer from the Sumatra Institute of Technology with a StartUp Passion, AI Engineer and Data Science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib and Other i have experience in Deep Learning
 
 ## LinkedIn &nbsp;
 
