@@ -1,4 +1,4 @@
-## Hi, I'm Miftakhul Aziz, a Data Science Engineer 🚀 from Indonesia. 👋
+# Hi, I'm Miftakhul Aziz, a Data Science Engineer 🚀 from Indonesia. 👋
 
 <!-- ## -->
 
@@ -13,10 +13,10 @@
 -  How to reach me: can email me or dm me on instagram account https://www.instagram.com/amift_/
 -  Pronouns: phoneix
 -  Fun fact: funny, smart, good personality, out of the box, photography, travelling
--  Linkedin : &nbsp;
 
-<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a> 
+## LinkedIn &nbsp;
 
+<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a>
 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
@@ -28,29 +28,42 @@
 ## 
 
 
-### Familiar
-
+## Tech Skills
+<!-- 
 ###### TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark |
 ###### Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python | Go
-
-<!--
+ -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
--->
-
+![Node.js](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![Node.js](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Node.js](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
+![Node.js](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
+![Node.js](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elastic)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
+ ![Node.js](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
+![Node.js](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![Node.js](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![Node.js](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Node.js](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Node.js](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
+![Node.js](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
+![Node.js](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <!-- #### Programming -->
 
-<br>
+<!-- <br>
 <p align="left">
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/tensorflow.svg" alt="python" width="40" height="40"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/xtenzQ/xtenzQ/master/icons/tensorflow.svg" alt="python" width="40" height="40"/></a> &nbsp; -->
 <!-- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/></a> &nbsp; -->
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
+<!-- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> &nbsp;
-<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="java" width="40" height="40"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="java" width="40" height="40"/></a> &nbsp; -->
 <!-- <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="60" height="60"/> </a> &nbsp;
 <a href="#" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" height="60"/> </a> &nbsp;
 <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="60" height="60"/> </a> &nbsp;
