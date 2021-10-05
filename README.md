@@ -1,5 +1,5 @@
-# Hi, I'm Mifta, a Data Science Engineer 🚀 from Indonesia. 👋
-
+# Hi, I'm Mifta, a Data Science 🚀 from Indonesia. 👋
+# Currently perform as Data Engineer
 <!-- ## -->
 
 ### About me
