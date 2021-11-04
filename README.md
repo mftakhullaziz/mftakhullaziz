@@ -1,4 +1,4 @@
-# Hi, I'm Mift, a Data Science 🚀 from Indonesia. 👋
+#### Hi, I'm Mift, a Data Science 🚀 from Indonesia. 👋
 <!-- # Currently perform as Data Engineer -->
 <!-- ## -->
 
@@ -16,9 +16,9 @@
 
 <!-- A Bachelor's degree in Informatics Engineer from the Sumatra Institute of Technology with a StartUp Passion, AI Engineer and Data Science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib and Other i have experience in Deep Learning
  -->
-## LinkedIn &nbsp;
+<!-- ## LinkedIn &nbsp;
 
-<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a>
+<a href="https://www.linkedin.com/in/miftakhulaziz03/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="60" height="60"/></a> -->
 
 <!-- 🚀 Let me introduce myself, Currently a graduate of Computer Science from the Sumatra Institute of Technology with a data science background is accustomed to using the programming languages Python, Java, Javascript, Anaconda, Linux, TensorFlow, Keras, Scikit-learn, OpenCV, Github, Pandas, Matplotlib. -->
 
