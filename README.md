@@ -36,24 +36,24 @@
 ###### Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python | Go
  -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Elastic Search](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elastic)&nbsp;
+![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
+![SKlearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![Spring](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+<!-- ![Node.js](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp; -->
+<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
 <!-- ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-![Node.js](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-![Node.js](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Node.js](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 <!-- ![Node.js](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp; -->
-![Node.js](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
- ![Node.js](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elastic)&nbsp;
- ![Node.js](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
- ![Node.js](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
- ![Node.js](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![Node.js](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![Node.js](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 <!-- ![Node.js](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
-![Node.js](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
-![Node.js](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp;
 <!-- ![Node.js](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp; -->
 <!-- ![Node.js](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp; -->
 <!-- #### Programming -->
