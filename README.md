@@ -1,4 +1,4 @@
-#### Hi, I'm Mift, a Data Science 🚀 from Indonesia. 👋
+#### Hi, I'm Mift, a Software Engineer & Data Science 🚀 from Indonesia. 👋
 <!-- # Currently perform as Data Engineer -->
 <!-- ## -->
 
