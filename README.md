@@ -1,4 +1,5 @@
 #### 👋
+### Halo I'm ziza
 <!-- # Currently perform as Data Engineer -->
 <!-- ## -->
 
@@ -36,18 +37,19 @@
 ###### Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python | Go
  -->
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Elastic Search](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elastic)&nbsp;
-![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp;
-![SKlearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp;
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![Spring](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+<!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; -->
+<!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp; -->
+<!-- ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp; -->
+<!-- ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; -->
+<!-- ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp; -->
+<!-- ![SKlearn](https://img.shields.io/badge/-ScikitLearn-05122A?style=flat&logo=scikitlearn)&nbsp; -->
+<!-- ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp; -->
+<!-- ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp; -->
 <!-- ![Node.js](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)&nbsp; -->
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
