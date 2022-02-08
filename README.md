@@ -5,20 +5,19 @@
 [![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
 ##
 # **Tech Stacks**
-![Python](https://img.shields.io/badge/-Python-251255?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Go-251255?style=flat&logo=go)&nbsp;
-![Java](https://img.shields.io/badge/-Java-251255?style=flat&logo=java)&nbsp;
-![Elastic Search](https://img.shields.io/badge/-ElasticSearch-251255?style=flat&logo=elastic)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-251255?style=flat&logo=springboot)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-251255?style=flat&logo=mysql)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-251255?style=flat&logo=tensorflow)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-251255?style=flat&logo=flask)&nbsp;
-![Django](https://img.shields.io/badge/-Django-251255?style=flat&logo=django)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-010b1f?style=flat&logo=python)&nbsp;
+![GOLANG](https://img.shields.io/badge/-GOLANG-010b1f?style=flat&logo=go)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-010b1f?style=flat&logo=java)&nbsp;
+![ELASTICSEARCH](https://img.shields.io/badge/-ELASTICSEARCH-010b1f?style=flat&logo=elastic)&nbsp;
+![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-010b1f?style=flat&logo=springboot)&nbsp;
+![SQL](https://img.shields.io/badge/-MYSQL-010b1f?style=flat&logo=mysql)&nbsp;
+![TENSORFLOW](https://img.shields.io/badge/-TENSORFLOW-010b1f?style=flat&logo=tensorflow)&nbsp;
+![FLASK](https://img.shields.io/badge/-FLASK-010b1f?style=flat&logo=flask)&nbsp;
+![DJANGO](https://img.shields.io/badge/-DJANGO-010b1f?style=flat&logo=django)&nbsp;
 
 ## 
 # **My Github Stat's**
-<p align="left">
-![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
+![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
  
 <!-- # Currently perform as Data Engineer -->
 <!-- ## -->
