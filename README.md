@@ -1,5 +1,25 @@
-#### 👋
-### Halo I'm ziza
+👋 Hi there! I'm
+# **Miftakhul Aziz**
+
+![Github](https://img.shields.io/github/followers/amifth?style=social)
+[![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
+##
+# **Tech Stacks**
+![Python](https://img.shields.io/badge/-Python-251255?style=flat&logo=python)&nbsp;
+![Golang](https://img.shields.io/badge/-Go-251255?style=flat&logo=go)&nbsp;
+![Java](https://img.shields.io/badge/-Java-251255?style=flat&logo=java)&nbsp;
+![Elastic Search](https://img.shields.io/badge/-ElasticSearch-251255?style=flat&logo=elastic)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-251255?style=flat&logo=springboot)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-251255?style=flat&logo=mysql)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-251255?style=flat&logo=tensorflow)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-251255?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-251255?style=flat&logo=django)&nbsp;
+
+## 
+# **My Github Stat's**
+<p align="left">
+![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
+ 
 <!-- # Currently perform as Data Engineer -->
 <!-- ## -->
 
@@ -28,22 +48,11 @@
 <!-- <a href="https://github.com/miftakhulaziz03" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//github/github-original-wordmark.svg" alt="github" width="60" height="60"/></a>
  -->
 
-## 
-
-
-#### programming stack
 <!-- 
 ###### TensorFlow | Keras | Pandas | Numpy | Scikit-Learn | Scipy | Elastic Search | Apache Spark |
 ###### Anaconda | Jupyter-Lab | OpenCV | Matplotlib | Seaborn | Plotly | Kibana | Python | Go
  -->
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Golang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Elastic Search](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elastic)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp; -->
-<!-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp; -->
 <!-- ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp; -->
 <!-- ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp; -->
 <!-- ![Kibana](https://img.shields.io/badge/-Kibana-05122A?style=flat&logo=kibana)&nbsp; -->
@@ -84,14 +93,9 @@
 Node Js | Django | Flask
 ```
 -->
-## 
-
-### Stat's
-
-<p align="left">
 
 <!-- https://github-readme-stats-eight-theta.vercel.app/api?username=miftakhulaziz03&show_icons=true&theme=algolia&include_all_commits=true&count_private=true> -->
-![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
  
 <!-- ![Miftakhul's GitHub stats](https://github-readme-stats.vercel.app/api?username=miftakhulaziz03&include_all_commits=true&count_private=true)
 
