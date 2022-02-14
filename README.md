@@ -19,7 +19,12 @@
 ## 
 ### **My Github Stat's**
 ![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
- 
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&layout=compact)](https://github.com/amifth/github-readme-stats) -->
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amifth&repo=ApiGo)](https://github.com/amifth/github-readme-stats) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amifth&theme=gotham)](https://git.io/streak-stats)
 
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
