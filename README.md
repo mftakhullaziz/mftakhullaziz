@@ -1,7 +1,7 @@
 👋 Hi there! I'm **Iza**
 
      Software Engineering | AI Research
-     🔭Lets connect with me... 
+     Lets connect with me... 
 
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
 [![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
@@ -20,13 +20,13 @@
 
 ## 
 #### **My Github Stat's**
-![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=gotham&include_all_commits=true&count_private=true)
+![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&layout=compact)](https://github.com/amifth/github-readme-stats) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amifth&repo=ApiGo)](https://github.com/amifth/github-readme-stats) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amifth&theme=gotham)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amifth&theme=light)](https://git.io/streak-stats) -->
 
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
