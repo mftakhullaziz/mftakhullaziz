@@ -7,16 +7,16 @@
 [![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
 ##
 #### **Programming Language**
-![PYTHON](https://img.shields.io/badge/-Python-002e40?style=flat&logo=python)&nbsp;
-![GOLANG](https://img.shields.io/badge/-Golang-002e40?style=flat&logo=go)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-002e40?style=flat&logo=java)&nbsp;
-![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-002e40?style=flat&logo=elastic)&nbsp;
-![SPRINGBOOT](https://img.shields.io/badge/-Springboot-002e40?style=flat&logo=springboot)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-002e40?style=flat&logo=mysql)&nbsp;
-![TENSORFLOW](https://img.shields.io/badge/-Tensorflow-002e40?style=flat&logo=tensorflow)&nbsp;
-![FLASK](https://img.shields.io/badge/-Flask-002e40?style=flat&logo=flask)&nbsp;
-![DJANGO](https://img.shields.io/badge/-Django-002e40?style=flat&logo=django)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-002e40?style=flat&logo=swagger)&nbsp;
+![PYTHON](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)&nbsp;
+![GOLANG](https://img.shields.io/badge/-Golang-ffffff?style=flat&logo=go)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java)&nbsp;
+![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-ffffff?style=flat&logo=elastic)&nbsp;
+![SPRINGBOOT](https://img.shields.io/badge/-Springboot-ffffff?style=flat&logo=springboot)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
+![TENSORFLOW](https://img.shields.io/badge/-Tensorflow-ffffff?style=flat&logo=tensorflow)&nbsp;
+![FLASK](https://img.shields.io/badge/-Flask-ffffff?style=flat&logo=flask)&nbsp;
+![DJANGO](https://img.shields.io/badge/-Django-ffffff?style=flat&logo=django)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-ffffff?style=flat&logo=swagger)&nbsp;
 
 ## 
 #### **My Github Stat's**
