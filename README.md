@@ -1,4 +1,4 @@
-👋 Hi there! I'm **Iza**
+👋 Hi there! I'm **Miftakhul**
 
      Software Engineering | AI Research
      Lets connect with me... 
