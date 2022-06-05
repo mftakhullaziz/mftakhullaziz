@@ -1,6 +1,6 @@
 👋 Hi there! I'm **Miftakhul**
 
-     Software Engineering | AI Research
+     Software Engineer | Backend | AI & Comvis
      Lets connect with me... 
 
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
