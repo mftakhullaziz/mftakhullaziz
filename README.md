@@ -1,26 +1,26 @@
 👋 Hi there! I'm **Miftakhul**
 
-     Software Engineer | Backend | AI & Comvis
+     Software Engineering Backend
      Lets connect with me... 
 
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
 [![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
 ##
 #### **Programming Language**
-![PYTHON](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)&nbsp;
-![GOLANG](https://img.shields.io/badge/-Golang-ffffff?style=flat&logo=go)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java)&nbsp;
-![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-ffffff?style=flat&logo=elastic)&nbsp;
-![SPRINGBOOT](https://img.shields.io/badge/-Springboot-ffffff?style=flat&logo=springboot)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql)&nbsp;
-![TENSORFLOW](https://img.shields.io/badge/-Tensorflow-ffffff?style=flat&logo=tensorflow)&nbsp;
-![FLASK](https://img.shields.io/badge/-Flask-ffffff?style=flat&logo=flask)&nbsp;
-![DJANGO](https://img.shields.io/badge/-Django-ffffff?style=flat&logo=django)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-ffffff?style=flat&logo=swagger)&nbsp;
+![PYTHON](https://img.shields.io/badge/-Python-302f2f?style=flat&logo=python)&nbsp;
+![GOLANG](https://img.shields.io/badge/-Golang-302f2f?style=flat&logo=go)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-302f2f?style=flat&logo=java)&nbsp;
+![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-302f2f?style=flat&logo=elastic)&nbsp;
+![SPRINGBOOT](https://img.shields.io/badge/-Springboot-302f2f?style=flat&logo=springboot)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-302f2f?style=flat&logo=mysql)&nbsp;
+![TENSORFLOW](https://img.shields.io/badge/-Tensorflow-302f2f?style=flat&logo=tensorflow)&nbsp;
+![FLASK](https://img.shields.io/badge/-Flask-302f2f?style=flat&logo=flask)&nbsp;
+![DJANGO](https://img.shields.io/badge/-Django-302f2f?style=flat&logo=django)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-302f2f?style=flat&logo=swagger)&nbsp;
 
 ## 
 #### **My Github Stat's**
-![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&layout=compact)](https://github.com/amifth/github-readme-stats) -->
 
