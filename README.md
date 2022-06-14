@@ -1,7 +1,9 @@
 👋 Hi there! I'm **Miftakhul**
 
-     Software Engineering Backend
+     
+     Software Engineering Backend | Like and only Python, Java, Go
      Lets connect with me... 
+     
 
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
 [![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
