@@ -1,7 +1,7 @@
 👋 Hi there! I'm **Miftakhul**
 
      
-     Software Engineering Backend | Like and only Python, Java, Go
+     Software Engineer, Backend | Like and only Python, Java, Go
      Lets connect with me... 
      
 
