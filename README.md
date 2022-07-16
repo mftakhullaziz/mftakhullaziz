@@ -19,8 +19,8 @@
 ![FLASK](https://img.shields.io/badge/-Flask-302f2f?style=flat&logo=flask)&nbsp;
 ![DJANGO](https://img.shields.io/badge/-Django-302f2f?style=flat&logo=django)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-302f2f?style=flat&logo=swagger)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-302f2f?style=flat&logo=apache-kafka)&nbsp;
-![Spark](https://img.shields.io/badge/-Kafka-302f2f?style=flat&logo=apache-spark)&nbsp;
+![Kafka](https://img.shields.io/badge/-Apache-Kafka-302f2f?style=flat&logo=apache-kafka)&nbsp;
+![Spark](https://img.shields.io/badge/-Apache-Spark-302f2f?style=flat&logo=apache-spark)&nbsp;
 
 ## 
 #### **My Github Stat's**
