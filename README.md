@@ -1,8 +1,7 @@
 👋 Hi there! I'm **Miftakhul**
 
-     
-   Software Engineer, Backend | Like and only Python, Java, Go
-   Lets connect with me... 
+  Software Engineer, Backend | Favorite Programming Language Java, Python, Go
+  Lets connect with me... 
      
 <!--
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
@@ -13,7 +12,7 @@
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin" alt="go" width="125" height="30"/></a> &nbsp;
 
 ##
-#### **Programming Language**
+#### **My Favorite Tech Stacks**
 <!--
 ![PYTHON](https://img.shields.io/badge/-Python-302f2f?style=flat&logo=python)&nbsp;
 ![GOLANG](https://img.shields.io/badge/-Golang-302f2f?style=flat&logo=go)&nbsp;
@@ -38,9 +37,12 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Sql-00001a?style=flat&logo=mysql" alt="spark" width="65" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Swagger-00001a?style=flat&logo=swagger" alt="spark" width="110" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Kafka-00001a?style=flat&logo=apache-kafka" alt="spark" width="85" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Flask-00001a?style=flat&logo=flask" alt="spark" width="75" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Flask-00001a?style=flat&logo=flask" alt="spark" width="75" height="30"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Hibernate-00001a?style=flat&logo=hibernate" alt="spark" width="120" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux-00001a?style=flat&logo=ubuntu" alt="spark" width="88" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Docker-00001a?style=flat&logo=docker" alt="spark" width="88" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-00001a?style=flat&logo=spring" alt="spark" width="85" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp;
 
 
 ## 
