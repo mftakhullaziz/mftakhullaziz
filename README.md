@@ -1,14 +1,20 @@
 👋 Hi there! I'm **Miftakhul**
 
      
-     Software Engineer, Backend | Like and only Python, Java, Go
-     Lets connect with me... 
+   Software Engineer, Backend | Like and only Python, Java, Go
+   Lets connect with me... 
      
-
+<!--
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
-[![dev.to](https://img.shields.io/badge/-Miftakhul%20Aziz-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
+[![dev.to](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
+-->
+
+<a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/amifth?style=social" alt="python" width="150" height="30"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin" alt="go" width="125" height="30"/></a> &nbsp;
+
 ##
 #### **Programming Language**
+<!--
 ![PYTHON](https://img.shields.io/badge/-Python-302f2f?style=flat&logo=python)&nbsp;
 ![GOLANG](https://img.shields.io/badge/-Golang-302f2f?style=flat&logo=go)&nbsp;
 ![JAVA](https://img.shields.io/badge/-Java-302f2f?style=flat&logo=java)&nbsp;
@@ -21,6 +27,21 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-302f2f?style=flat&logo=swagger)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-302f2f?style=flat&logo=apache-kafka)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-302f2f?style=flat&logo=apache-spark)&nbsp;
+-->
+
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Golang-00001a?style=flat&logo=go" alt="go" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spark-00001a?style=flat&logo=apache-spark" alt="spark" width="90" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Elastic-00001a?style=flat&logo=elastic" alt="spark" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Springboot-00001a?style=flat&logo=springboot" alt="spark" width="130" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Sql-00001a?style=flat&logo=mysql" alt="spark" width="65" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Swagger-00001a?style=flat&logo=swagger" alt="spark" width="110" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Kafka-00001a?style=flat&logo=apache-kafka" alt="spark" width="85" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Flask-00001a?style=flat&logo=flask" alt="spark" width="75" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Hibernate-00001a?style=flat&logo=hibernate" alt="spark" width="120" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux-00001a?style=flat&logo=ubuntu" alt="spark" width="88" height="30"/></a> &nbsp;
+
 
 ## 
 #### **My Github Stat's**
