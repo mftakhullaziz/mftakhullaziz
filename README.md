@@ -3,31 +3,11 @@
   Software Engineer, Backend | Favorite Programming Language Java, Python, Go
   Lets connect with me... 
      
-<!--
-![Github](https://img.shields.io/github/followers/amifth?style=social)
-[![dev.to](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
--->
-
 <a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/amifth?style=social" alt="python" width="150" height="30"/></a> &nbsp;
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin" alt="go" width="125" height="30"/></a> &nbsp;
 
 ##
 #### **My Favorite Tech Stacks**
-<!--
-![PYTHON](https://img.shields.io/badge/-Python-302f2f?style=flat&logo=python)&nbsp;
-![GOLANG](https://img.shields.io/badge/-Golang-302f2f?style=flat&logo=go)&nbsp;
-![JAVA](https://img.shields.io/badge/-Java-302f2f?style=flat&logo=java)&nbsp;
-![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-302f2f?style=flat&logo=elastic)&nbsp;
-![SPRINGBOOT](https://img.shields.io/badge/-Springboot-302f2f?style=flat&logo=springboot)&nbsp;
-![SQL](https://img.shields.io/badge/-MySQL-302f2f?style=flat&logo=mysql)&nbsp;
-![TENSORFLOW](https://img.shields.io/badge/-Tensorflow-302f2f?style=flat&logo=tensorflow)&nbsp;
-![FLASK](https://img.shields.io/badge/-Flask-302f2f?style=flat&logo=flask)&nbsp;
-![DJANGO](https://img.shields.io/badge/-Django-302f2f?style=flat&logo=django)&nbsp;
-![Swagger](https://img.shields.io/badge/-Swagger-302f2f?style=flat&logo=swagger)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-302f2f?style=flat&logo=apache-kafka)&nbsp;
-![Spark](https://img.shields.io/badge/-Spark-302f2f?style=flat&logo=apache-spark)&nbsp;
--->
-
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Golang-00001a?style=flat&logo=go" alt="go" width="95" height="30"/></a> &nbsp;
@@ -49,11 +29,38 @@
 #### **My Github Stat's**
 ![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&layout=compact)](https://github.com/amifth/github-readme-stats) -->
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amifth&repo=ApiGo)](https://github.com/amifth/github-readme-stats) -->
+#### **Visit Here**
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amifth&theme=light)](https://git.io/streak-stats) -->
+<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=Visit-Counting" alt="spark" width="150" height="30"/></a> &nbsp;
+
+
+
+<!--
+![Github](https://img.shields.io/github/followers/amifth?style=social)
+[![dev.to](https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amift)
+-->
+
+<!--
+![PYTHON](https://img.shields.io/badge/-Python-302f2f?style=flat&logo=python)&nbsp;
+![GOLANG](https://img.shields.io/badge/-Golang-302f2f?style=flat&logo=go)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-302f2f?style=flat&logo=java)&nbsp;
+![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-302f2f?style=flat&logo=elastic)&nbsp;
+![SPRINGBOOT](https://img.shields.io/badge/-Springboot-302f2f?style=flat&logo=springboot)&nbsp;
+![SQL](https://img.shields.io/badge/-MySQL-302f2f?style=flat&logo=mysql)&nbsp;
+![TENSORFLOW](https://img.shields.io/badge/-Tensorflow-302f2f?style=flat&logo=tensorflow)&nbsp;
+![FLASK](https://img.shields.io/badge/-Flask-302f2f?style=flat&logo=flask)&nbsp;
+![DJANGO](https://img.shields.io/badge/-Django-302f2f?style=flat&logo=django)&nbsp;
+![Swagger](https://img.shields.io/badge/-Swagger-302f2f?style=flat&logo=swagger)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-302f2f?style=flat&logo=apache-kafka)&nbsp;
+![Spark](https://img.shields.io/badge/-Spark-302f2f?style=flat&logo=apache-spark)&nbsp;
+-->
+
+<!-- ![](https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=VisitHere) -->
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&layout=compact)](https://github.com/amifth/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amifth&repo=ApiGo)](https://github.com/amifth/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amifth&theme=light)](https://git.io/streak-stats) -->
 
 <!-- ![Anaconda](https://img.shields.io/badge/-Anaconda-05122A?style=flat&logo=anaconda)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
