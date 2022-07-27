@@ -3,6 +3,8 @@
   Software Engineer, Backend | Favorite Programming Language Java, Python, Go
   Lets connect with me... 
      
+  😄 Software Engineer Just Create Code & fixing bug like Make Coffe and custom flavor 
+  
 <a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/amifth?style=social" alt="python" width="150" height="30"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin" alt="go" width="125" height="30"/></a> &nbsp;
 <a href="https://amifth.github.io"><img src="https://img.shields.io/badge/-Amifth.dev-grey?style=flat&logo=java&logoColor=white" alt="java" width="95" height="30"/></a> &nbsp;
