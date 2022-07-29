@@ -44,7 +44,7 @@
 
 #### **Visit Here**
 
-<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=Visit-Counting" alt="spark" width="160" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=Visit-Counting" alt="spark" width="170" height="30"/></a> &nbsp;
 
 
 
