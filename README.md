@@ -1,6 +1,7 @@
 👋 Hi there! I'm **Miftakhul**
 
   Software Engineer, Backend | Favorite Programming Language Java, Python, Go
+  Always learning about Event Driven Microservices, Reactive Programming, Clean architecture and Design Pattern
   Lets connect with me... 
      
   😄 Software Engineer Just Create Code & fixing bug like Make Coffe and custom flavor 
