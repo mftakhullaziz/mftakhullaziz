@@ -11,7 +11,7 @@
 <a href="https://amifth.github.io"><img src="https://img.shields.io/badge/-Amifth.dev-grey?style=flat&logo=java&logoColor=white" alt="java" width="95" height="30"/></a> &nbsp;
 
 ##
-#### **My Favorite Tech Stacks**
+#### **Technologies Stacks**
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Golang-00001a?style=flat&logo=go" alt="go" width="95" height="30"/></a> &nbsp;
