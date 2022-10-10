@@ -45,6 +45,9 @@
 </a>
 </p>
 
+<!--
+https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
+-->
 
 <!--
 ![Github](https://img.shields.io/github/followers/amifth?style=social)
