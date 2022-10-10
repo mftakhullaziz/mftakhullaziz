@@ -10,6 +10,9 @@
 <a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin" alt="go" width="125" height="30"/></a> &nbsp;
 <a href="https://amifth.github.io"><img src="https://img.shields.io/badge/-Amifth.dev-grey?style=flat&logo=java&logoColor=white" alt="java" width="95" height="30"/></a> &nbsp;
 
+<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=Total Visit" alt="spark" width="140" height="30"/></a> &nbsp;
+
+
 ##
 #### **Technologies Stacks**
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
@@ -41,12 +44,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amifth&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
-#### **Still Here all**
-
-<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=Total-Visit" alt="spark" width="170" height="30"/></a> &nbsp;
-
 
 
 <!--
