@@ -28,7 +28,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Hibernate-00001a?style=flat&logo=hibernate" alt="spark" width="120" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux-00001a?style=flat&logo=ubuntu" alt="spark" width="88" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Docker-00001a?style=flat&logo=docker" alt="spark" width="88" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-00001a?style=flat&logo=spring" alt="spark" width="85" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-00001a?style=flat&logo=spring" alt="spark" width="95" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp;
 
 
