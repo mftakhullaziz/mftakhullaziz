@@ -6,11 +6,11 @@
      
   😄 Software Engineer Just Create Code & fixing bug like Make Coffe and custom flavor 
   
-<a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/amifth?style=social" alt="python" width="150" height="30"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-MyLinkedIn-blue?style=flat&logo=linkedin" alt="go" width="125" height="30"/></a> &nbsp;
-<a href="https://amifth.github.io"><img src="https://img.shields.io/badge/-Amifth.dev-grey?style=flat&logo=java&logoColor=white" alt="java" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mfthza?style=social" alt="python" width="150" height="30"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin" alt="go" width="115" height="30"/></a> &nbsp;
+<a href="https://mfthza.github.io"><img src="https://img.shields.io/badge/-mfthza.dev-grey?style=flat&logo=java&logoColor=white" alt="java" width="95" height="30"/></a> &nbsp;
 
-<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=amifth&style=flat&color=brightgreen&label=Total Visit" alt="spark" width="140" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=mfthza&style=flat&color=brightgreen&label=visit-here" alt="spark" width="130" height="30"/></a> &nbsp;
 
 
 ##
@@ -39,9 +39,9 @@
 -->
 
 <p align="left">
-<a href="https://github.com/amifth">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amifth&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+<a href="https://github.com/mfthza">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfthza&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mfthza&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 </p>
 
