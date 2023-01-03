@@ -1,4 +1,4 @@
-👋 Hi there! I'm **Miftakhul**
+👋 Hi there! I'm **Miza**
 
   Software Engineer, Backend | Favorite Programming Language Java, Python, Go
   Always learning about Event Driven Microservices, Reactive Programming, Clean architecture and Design Pattern
@@ -6,9 +6,9 @@
      
   😄 Software Engineer Just Create Code & fixing bug like Make Coffe and custom flavor 
   
-<a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mfthza?style=social" alt="python" width="150" height="30"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin" alt="go" width="115" height="30"/></a> &nbsp;
-<a href="https://mfthza.github.io"><img src="https://img.shields.io/badge/-mfthza.dev-grey?style=flat&logo=java&logoColor=white" alt="java" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mftakhullaziz?style=social" alt="python" width="150" height="30"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin" alt="go" width="100" height="30"/></a> &nbsp;
+<a href="https://mfthza.github.io"><img src="https://img.shields.io/badge/-mftakhullaziz.io-grey?style=flat&logo=java&logoColor=white" alt="java" width="140" height="30"/></a> &nbsp;
 
 <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=mfthza&style=flat&color=brightgreen&label=visit-here" alt="spark" width="130" height="30"/></a> &nbsp;
 
@@ -40,8 +40,8 @@
 
 <p align="left">
 <a href="https://github.com/mfthza">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mfthza&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mfthza&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mftakhullaziz&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mftakhullaziz&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 </p>
 
