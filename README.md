@@ -1,13 +1,18 @@
 👋 Hi there! I'm **Miza**
 
-  Software Engineer, Backend | Favorite Programming Language Java, Python, Go
-  Always learning about Event Driven Microservices, Reactive Programming, Clean architecture and Design Pattern
+  Backend Engineer | Software Engineer | Software Development Engineer 
+  
+  Good Programming Language Java, Python, Go
+  - Event Driven Microservices, 
+  - Reactive Programming, 
+  - Clean architecture and Design Pattern
+  
   Lets connect with me... 
      
-  😄 Software Engineer Just Create Code & fixing bug like Make Coffe and custom flavor 
+  😄 Software Engineer Its Fun Just Create Code & fixing bug like Make Coffe and custom flavor 
   
 <a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mftakhullaziz?style=social" alt="python" width="150" height="30"/></a> &nbsp;
-<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-linkedin-blue?style=flat&logo=linkedin" alt="go" width="100" height="30"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin" alt="go" width="100" height="30"/></a> &nbsp;
 <a href="https://mfthza.github.io"><img src="https://img.shields.io/badge/-mftakhullaziz.io-grey?style=flat&logo=java&logoColor=white" alt="java" width="140" height="30"/></a> &nbsp;
 
 <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=mfthza&style=flat&color=brightgreen&label=visit-here" alt="spark" width="130" height="30"/></a> &nbsp;
@@ -15,7 +20,10 @@
 
 ##
 #### **Technologies Stacks**
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,go,python,c,spring,flask,rxjs,git,docker,linux&theme=dark)](https://skills.thijs.gg)
+
+<!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Golang-00001a?style=flat&logo=go" alt="go" width="95" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spark-00001a?style=flat&logo=apache-spark" alt="spark" width="90" height="30"/></a> &nbsp;
@@ -29,7 +37,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux-00001a?style=flat&logo=ubuntu" alt="spark" width="88" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Docker-00001a?style=flat&logo=docker" alt="spark" width="88" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-00001a?style=flat&logo=spring" alt="spark" width="95" height="30"/></a> &nbsp;
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp; -->
 
 
 ## 
