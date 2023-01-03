@@ -21,7 +21,7 @@
 ##
 #### **Technologies Stacks**
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,go,python,c,spring,flask,rxjs,git,docker,linux&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,go,python,c,spring,flask,rxjs,git,docker,linux,tensorflow,hibernate&theme=dark)](https://skills.thijs.gg)
 
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
