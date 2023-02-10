@@ -1,27 +1,29 @@
-👋 Hi there! I'm **Miza**
-
-  Backend Engineer | Software Engineer | Software Development Engineer 
+<!-- 👋 Hi there! I'm **M** -->
+  Hi I'm **aziz**
+##
+  I am a **software engineer** always learning new things to explore interesting technology about event-driven microservices, reactive, clean arch, design patterns, and more.
+<!--   Backend Engineer | Software Engineer | Software Development Engineer  -->
   
-  Good Programming Language Java, Python, Go
+<!--   Good Programming Language Java, Python, Go
   - Event Driven Microservices, 
   - Reactive Programming, 
   - Clean architecture and Design Pattern
-  
-  Lets connect with me... 
+   -->
+<!--   Lets connect with me...  -->
      
-  😄 Software Engineer Its Fun Just Create Code & fixing bug like Make Coffe and custom flavor 
+<!--   😄 Software Engineer Its Fun Just Create Code & fixing bug like Make Coffe and custom flavor  -->
   
-<a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mftakhullaziz?style=social" alt="python" width="150" height="30"/></a> &nbsp;
+<!-- <a href="#" target="_blank"> <img src="https://img.shields.io/github/followers/mftakhullaziz?style=social" alt="python" width="150" height="30"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/amift"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin" alt="go" width="100" height="30"/></a> &nbsp;
 <a href="https://mfthza.github.io"><img src="https://img.shields.io/badge/-mftakhullaziz.io-grey?style=flat&logo=java&logoColor=white" alt="java" width="140" height="30"/></a> &nbsp;
 
-<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=mfthza&style=flat&color=brightgreen&label=visit-here" alt="spark" width="130" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=mfthza&style=flat&color=brightgreen&label=visit-here" alt="spark" width="130" height="30"/></a> &nbsp; -->
 
 
-##
-#### **Technologies Stacks**
+<!-- ## -->
+<!-- #### **Technologies Stacks**
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,go,python,c,spring,flask,rxjs,git,docker,linux,tensorflow,hibernate&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,go,python,c,spring,flask,rxjs,git,docker,linux,tensorflow,hibernate&theme=dark)](https://skills.thijs.gg) -->
 
 <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Java-00001a?style=flat&logo=java&logoColor=white" alt="java" width="50" height="30"/></a> &nbsp;
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
@@ -40,18 +42,18 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp; -->
 
 
-## 
-#### **My Github Stat's**
+<!-- ## 
+#### **My Github Stat's** -->
 <!--
 ![Miftakhul's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=amifth&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 -->
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://github.com/mfthza">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mftakhullaziz&show_icons=true&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mftakhullaziz&langs_count=6&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
-</p>
+</p> -->
 
 <!--
 https://github-readme-stats.vercel.app/api/top-langs/?username=amifth&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
