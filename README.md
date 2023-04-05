@@ -1,24 +1,21 @@
 <!-- 👋 Hi there! I'm **M** -->
-##  Hello, I'm iza
+###  Hello, I'm iza
 
-### I'm a **Software Engineer** always learning new things to explore interesting technology about event-driven microservices, reactive, clean arch, design patterns, and more.
+#### I'm a **Software Engineer** always learning new things to explore interesting technology about event-driven microservices, reactive, clean arch, design patterns, and more.
 ##
-### Here my project list
-#### Golang
-- Gobooks
-    - an create crud books api like to manage library books with user authentication and building using go-gin, mysql and open api.
-    - here link to repository : [gobooks service](https://github.com/mftakhullaziz/gobooks) 
-- Gorouter
-    - an create service like crud with in layered architecture and building using go-router, mysql.
-    - here link to repository : [gorouter service](https://github.com/mftakhullaziz/gorouter) 
-- Gotodos
-    - an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
-    - here link to repository : [gorouter service](https://github.com/mftakhullaziz/gotodos)
+#### Here my project list
+##### Golang
+-  [Gobooks](https://github.com/mftakhullaziz/gobooks) 
+    -  an create crud books api like to manage library books with user authentication and building using go-gin, mysql and open api.
+-  [Gorouter](https://github.com/mftakhullaziz/gorouter)
+    -  an create service like crud with in layered architecture and building using go-router, mysql. 
+-  [Gotodos](https://github.com/mftakhullaziz/gotodos)
+    -  an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
      
-### Java
-- project1
-- project2
-- project3
+#### Java
+-  project1
+-  project2
+-  project3
       
 
 <!--   Backend Engineer | Software Engineer | Software Development Engineer  -->
