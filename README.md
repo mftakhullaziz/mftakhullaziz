@@ -5,12 +5,16 @@
 ##
 ### Here my project list
 #### Golang
-- gobooks
+- Gobooks
     - an create crud books api like to manage library books with user authentication and building using go-gin, mysql and open api.
-    - here link to repository :
-- gorouter
-- gotodos
-
+    - here link to repository : [gobooks service](https://github.com/mftakhullaziz/gobooks) 
+- Gorouter
+    - an create service like crud with in layered architecture and building using go-router, mysql.
+    - here link to repository : [gorouter service](https://github.com/mftakhullaziz/gorouter) 
+- Gotodos
+    - an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
+    - here link to repository : [gorouter service](https://github.com/mftakhullaziz/gotodos)
+     
 ### Java
 - project1
 - project2
