@@ -1,14 +1,14 @@
 <!-- 👋 Hi there! I'm **M** -->
-###  Hello, I'm zee
+###  Hello, I'm Miftakhul 
 
 #### I'm a Software Engineering Backend and AI Development Enthusiast from Indonesia.
 ##
-### Projects List:
+### Building Service:
 #### Golang
 - [gotodo](https://github.com/mftakhullaziz/gotodo): an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
 - [gobook](https://github.com/mftakhullaziz/gobooks): an create crud books api like to manage library books with user authentication and building using go-gin, mysql and open api.
 - [gorouter](https://github.com/mftakhullaziz/gorouter): an create service like crud with in layered architecture and building using go-router, mysql. 
-- [gooetls](https://github.com/mftakhullaziz/gooetls): an project to create etl app
+- [gomigratorsql](https://github.com/mftakhullaziz/gooetls): an project to create etl app
 
 ##
 ![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=default&color=brightgreen&label=Visit_Count)
