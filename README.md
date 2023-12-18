@@ -1,8 +1,7 @@
 <!-- 👋 Hi there! I'm **M** -->
 ###  Hello, I'm Miftakhul 
 
-#### I'm a Software Engineering Backend and AI Development Enthusiast from Indonesia.
-##
+#### I am a software engineer with a Java and Golang backend specialist, I am also a research fellow in AI development
 ### Building Service:
 #### Golang
 - [gotodo](https://github.com/mftakhullaziz/gotodo): an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
