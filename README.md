@@ -1,13 +1,16 @@
 <!-- 👋 Hi there! I'm **M** -->
 ###  Hello, I'm Miftakhul 
 
-#### I am a software engineer with a Java and Golang backend specialist, I am also a research fellow in AI development
+#### Just a software engineer with a Java and Golang backend specialist
+
+<!--
 ### Building Service:
 #### Golang
 - [gotodo](https://github.com/mftakhullaziz/gotodo): an create service todos app with in implement hexagonal architecture and building using go-mux, mysql.
-- [gobook](https://github.com/mftakhullaziz/gobooks): an create crud books api like to manage library books with user authentication and building using go-gin, mysql and open api.
+- [gobook](https://github.com/mftakhullaziz/gobooks): and create crud books apis like to manage library books with user authentication and building using go-gin, mysql and open api.
 - [gorouter](https://github.com/mftakhullaziz/gorouter): an create service like crud with in layered architecture and building using go-router, mysql. 
 - [gomigratorsql](https://github.com/mftakhullaziz/gooetls): an project to create etl app
+-->
 
 ##
 ![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=default&color=brightgreen&label=Visit_Count)
