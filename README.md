@@ -1,7 +1,7 @@
 <!-- 👋 Hi there! I'm **M** -->
-###  Hello, I'm Miftakhul 
+###  Hey, I'm Aziz 
 
-#### Just a software engineer with a Java and Golang backend specialist
+I'm not a great Software Engineer. I continue to try to be a good Software Engineer with good habits.
 
 <!--
 ### Building Service:
