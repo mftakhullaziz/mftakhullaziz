@@ -1,5 +1,5 @@
 <!-- 👋 Hi there! I'm **M** -->
-###  Hey, I'm Aziz 
+###  Hey, call me aziz 
 
 I'm not a great Software Engineer. I continue to try to be a good Software Engineer with good habits.
 
