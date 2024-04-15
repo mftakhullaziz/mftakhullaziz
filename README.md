@@ -1,5 +1,7 @@
 <!-- 👋 Hi there! I'm **M** -->
-###  Hey, call me aziz 
+####  Greetings, I'm Miftakhul Aziz
+
+Daily Coders | Software Development Engineer 
 
 I'm not a great Software Engineer. I continue to try to be a good Software Engineer with good habits.
 
