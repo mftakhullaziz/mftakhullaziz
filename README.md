@@ -15,7 +15,7 @@ I'm not a great Software Engineer. I continue to try to be a good Software Engin
 -->
 
 ##
-![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=default&color=brightgreen&label=Visit_Count)
+![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat-square&color=blueviolet&label=Counter+Visitor)
 <!--
 #### Java
 -  project1
