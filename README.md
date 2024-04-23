@@ -14,6 +14,22 @@ I'm not a great Software Engineer. I continue to try to be a good Software Engin
 - [gomigratorsql](https://github.com/mftakhullaziz/gooetls): an project to create etl app
 -->
 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-java-00001a?style=flat&logo=openjdk&logoColor=white" alt="java" width="80" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-python-00001a?style=flat&logo=python" alt="python" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-golang-00001a?style=flat&logo=go" alt="go" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-spark-00001a?style=flat&logo=apache-spark" alt="spark" width="90" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-elastic-00001a?style=flat&logo=elastic" alt="spark" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-springboot-00001a?style=flat&logo=springboot" alt="spark" width="130" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-sql-00001a?style=flat&logo=mysql" alt="spark" width="65" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-swagger-00001a?style=flat&logo=swagger" alt="spark" width="110" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-kafka-00001a?style=flat&logo=apache-kafka" alt="spark" width="85" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-flask-00001a?style=flat&logo=flask" alt="spark" width="75" height="30"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Hibernate-00001a?style=flat&logo=hibernate" alt="spark" width="120" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux-00001a?style=flat&logo=ubuntu" alt="spark" width="88" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Docker-00001a?style=flat&logo=docker" alt="spark" width="88" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Spring-00001a?style=flat&logo=spring" alt="spark" width="95" height="30"/></a> &nbsp;
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Tensorflow-00001a?style=flat&logo=tensorflow" alt="spark" width="120" height="30"/></a> &nbsp;
+
 ##
 ![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat-square&color=blueviolet&label=Counter+Visitor)
 <!--
