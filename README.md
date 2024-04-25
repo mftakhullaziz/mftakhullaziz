@@ -40,6 +40,16 @@ My tech stacks
 ![SPARK](https://img.shields.io/badge/-Spark-1f425f?style=flat&logo=apache-spark)&nbsp;
 
 ##
+My activity
+
+![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=transparent)
+
+##
+My commit programming languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz&layout=compact&theme=transparent)
+
+##
 ![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat&color=blueviolet&label=VISITOR)
 
 
