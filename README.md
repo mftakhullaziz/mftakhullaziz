@@ -16,31 +16,31 @@ quick learner, and I thrive in dynamic environments where I can continuously lea
 ##
 My tech stacks
 
-![GOLANG](https://img.shields.io/badge/-GO-1f425f?style=flat&logo=go)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-1f425f?style=flat&logo=openjdk)&nbsp;
-![JS](https://img.shields.io/badge/-JAVASCRIPT-1f425f?style=flat&logo=javascript)&nbsp;
-![PYTHON](https://img.shields.io/badge/-PYTHON-1f425f?style=flat&logo=python)&nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-1f425f?style=flat&logo=typescript)&nbsp;
-[![BASH](https://img.shields.io/badge/-BASH%20SCRIPTING-1f425f.svg?logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3MDg2QTAyQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3MDg2QTAzQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTcwODZBMDBBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTcwODZBMDFBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz6lm45hAAADkklEQVR42qyVa0yTVxzGn7d9Wy03MS2ii8s%2BeokYNQSVhCzOjXZOFNF4jx%2BMRmPUMEUEqVG36jo2thizLSQSMd4N8ZoQ8RKjJtooaCpK6ZoCtRXKpRempbTv5ey83bhkAUphz8fznvP8znn%2B%2F3NeEEJgNBoRRSmz0ub%2FfuxEacBg%2FDmYtiCjgo5NG2mBXq%2BH5I1ogMRk9Zbd%2BQU2e1ML6VPLOyf5tvBQ8yT1lG10imxsABm7SLs898GTpyYynEzP60hO3trHDKvMigUwdeaceacqzp7nOI4n0SSIIjl36ao4Z356OV07fSQAk6xJ3XGg%2BLCr1d1OYlVHp4eUHPnerU79ZA%2F1kuv1JQMAg%2BE4O2P23EumF3VkvHprsZKMzKwbRUXFEyTvSIEmTVbrysp%2BWr8wfQHGK6WChVa3bKUmdWou%2BjpArdGkzZ41c1zG%2Fu5uGH4swzd561F%2BuhIT4%2BLnSuPsv9%2BJKIpjNr9dXYOyk7%2FBZrcjIT4eCnoKgedJP4BEqhG77E3NKP31FO7cfQA5K0dSYuLgz2TwCWJSOBzG6crzKK%2BohNfni%2Bx6OMUMMNe%2Fgf7ocbw0v0acKg6J8Ql0q%2BT%2FAXR5PNi5dz9c71upuQqCKFAD%2BYhrZLEAmpodaHO3Qy6TI3NhBpbrshGtOWKOSMYwYGQM8nJzoFJNxP2HjyIQho4PewK6hBktoDcUwtIln4PjOWzflQ%2Be5yl0yCCYgYikTclGlxadio%2BBQCSiW1UXoVGrKYwH4RgMrjU1HAB4vR6LzWYfFUCKxfS8Ftk5qxHoCUQAUkRJaSEokkV6Y%2F%2BJUOC4hn6A39NVXVBYeNP8piH6HeA4fPbpdBQV5KOx0QaL1YppX3Jgk0TwH2Vg6S3u%2BdB91%2B%2FpuNYPYFl5uP5V7ZqvsrX7jxqMXR6ff3gCQSTzFI0a1TX3wIs8ul%2Bq4HuWAAiM39vhOuR1O1fQ2gT%2F26Z8Z5vrl2OHi9OXZn995nLV9aFfS6UC9JeJPfuK0NBohWpCHMSAAsFe74WWP%2BvT25wtP9Bpob6uGqqyDnOtaeumjRu%2ByFu36VntK%2FPA5umTJeUtPWZSU9BCgud661odVp3DZtkc7AnYR33RRC708PrVi1larW7XwZIjLnd7R6SgSqWSNjU1B3F72pz5TZbXmX5vV81Yb7Lg7XT%2FUXriu8XLVqw6c6XqWnBKiiYU%2BMt3wWF7u7i91XlSEITwSAZ%2FCzAAHsJVbwXYFFEAAAAASUVORK5CYII%3D)](https://www.gnu.org/software/bash/)
-![SQL](https://img.shields.io/badge/-MYSQL-1f425f?style=flat&logo=mysql)&nbsp;
-![SQL](https://img.shields.io/badge/-POSTGRESQL-1f425f?style=flat&logo=postgresql)&nbsp;
-![REDIS](https://img.shields.io/badge/-REDIS-1f425f?style=flat&logo=redis)&nbsp;
-![MONGODB](https://img.shields.io/badge/-MONGODB-1f425f?style=flat&logo=mongodb)&nbsp;
-![SPRINGBOOT](https://img.shields.io/badge/-SPRINGBOOT-1f425f?style=flat&logo=springboot)&nbsp;
-![SPRING](https://img.shields.io/badge/-SPRING-1f425f?style=flat&logo=spring)&nbsp;
-![SPRING](https://img.shields.io/badge/-GIN-1f425f?style=flat&logo=gin)&nbsp;
-![SPRING](https://img.shields.io/badge/-NESTJS-1f425f?style=flat&logo=nestjs)&nbsp;
-![HIBERNATE](https://img.shields.io/badge/-HIBERNATE-1f425f?style=flat&logo=hibernate)&nbsp;
-![GITLAB](https://img.shields.io/badge/-GITLAB-1f425f?style=flat&logo=gitlab)&nbsp;
-![GITHUB](https://img.shields.io/badge/-GITHUB-1f425f?style=flat&logo=github)&nbsp;
-![BITBUCKET](https://img.shields.io/badge/-BITBUCKET-1f425f?style=flat&logo=bitbucket)&nbsp;
-![ELASTICSEARCH](https://img.shields.io/badge/-ELASTICSEARCH-1f425f?style=flat&logo=elastic)&nbsp;
-![SWAGGER](https://img.shields.io/badge/-SWAGGER-1f425f?style=flat&logo=swagger)&nbsp;
-![KAFKA](https://img.shields.io/badge/-KAFKA-1f425f?style=flat&logo=apache-kafka)&nbsp;
-![SPARK](https://img.shields.io/badge/-SPARK-1f425f?style=flat&logo=apache-spark)&nbsp;
+![GOLANG](https://img.shields.io/badge/-Go-1f425f?style=flat&logo=go)&nbsp;
+![JAVA](https://img.shields.io/badge/-Java-1f425f?style=flat&logo=openjdk)&nbsp;
+![JS](https://img.shields.io/badge/-Javascript-1f425f?style=flat&logo=javascript)&nbsp;
+![PYTHON](https://img.shields.io/badge/-Python-1f425f?style=flat&logo=python)&nbsp;
+![TYPESCRIPT](https://img.shields.io/badge/-Typescript-1f425f?style=flat&logo=typescript)&nbsp;
+[![BASH](https://img.shields.io/badge/-Bash%20Scripting-1f425f.svg?logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw%2FeHBhY2tldCBiZWdpbj0i77u%2FIiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8%2BIDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOkE3MDg2QTAyQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkE3MDg2QTAzQUZCMzExRTVBMkQxRDMzMkJDMUQ4RDk3Ij4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6QTcwODZBMDBBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6QTcwODZBMDFBRkIzMTFFNUEyRDFEMzMyQkMxRDhEOTciLz4gPC9yZGY6RGVzY3JpcHRpb24%2BIDwvcmRmOlJERj4gPC94OnhtcG1ldGE%2BIDw%2FeHBhY2tldCBlbmQ9InIiPz6lm45hAAADkklEQVR42qyVa0yTVxzGn7d9Wy03MS2ii8s%2BeokYNQSVhCzOjXZOFNF4jx%2BMRmPUMEUEqVG36jo2thizLSQSMd4N8ZoQ8RKjJtooaCpK6ZoCtRXKpRempbTv5ey83bhkAUphz8fznvP8znn%2B%2F3NeEEJgNBoRRSmz0ub%2FfuxEacBg%2FDmYtiCjgo5NG2mBXq%2BH5I1ogMRk9Zbd%2BQU2e1ML6VPLOyf5tvBQ8yT1lG10imxsABm7SLs898GTpyYynEzP60hO3trHDKvMigUwdeaceacqzp7nOI4n0SSIIjl36ao4Z356OV07fSQAk6xJ3XGg%2BLCr1d1OYlVHp4eUHPnerU79ZA%2F1kuv1JQMAg%2BE4O2P23EumF3VkvHprsZKMzKwbRUXFEyTvSIEmTVbrysp%2BWr8wfQHGK6WChVa3bKUmdWou%2BjpArdGkzZ41c1zG%2Fu5uGH4swzd561F%2BuhIT4%2BLnSuPsv9%2BJKIpjNr9dXYOyk7%2FBZrcjIT4eCnoKgedJP4BEqhG77E3NKP31FO7cfQA5K0dSYuLgz2TwCWJSOBzG6crzKK%2BohNfni%2Bx6OMUMMNe%2Fgf7ocbw0v0acKg6J8Ql0q%2BT%2FAXR5PNi5dz9c71upuQqCKFAD%2BYhrZLEAmpodaHO3Qy6TI3NhBpbrshGtOWKOSMYwYGQM8nJzoFJNxP2HjyIQho4PewK6hBktoDcUwtIln4PjOWzflQ%2Be5yl0yCCYgYikTclGlxadio%2BBQCSiW1UXoVGrKYwH4RgMrjU1HAB4vR6LzWYfFUCKxfS8Ftk5qxHoCUQAUkRJaSEokkV6Y%2F%2BJUOC4hn6A39NVXVBYeNP8piH6HeA4fPbpdBQV5KOx0QaL1YppX3Jgk0TwH2Vg6S3u%2BdB91%2B%2FpuNYPYFl5uP5V7ZqvsrX7jxqMXR6ff3gCQSTzFI0a1TX3wIs8ul%2Bq4HuWAAiM39vhOuR1O1fQ2gT%2F26Z8Z5vrl2OHi9OXZn995nLV9aFfS6UC9JeJPfuK0NBohWpCHMSAAsFe74WWP%2BvT25wtP9Bpob6uGqqyDnOtaeumjRu%2ByFu36VntK%2FPA5umTJeUtPWZSU9BCgud661odVp3DZtkc7AnYR33RRC708PrVi1larW7XwZIjLnd7R6SgSqWSNjU1B3F72pz5TZbXmX5vV81Yb7Lg7XT%2FUXriu8XLVqw6c6XqWnBKiiYU%2BMt3wWF7u7i91XlSEITwSAZ%2FCzAAHsJVbwXYFFEAAAAASUVORK5CYII%3D)](https://www.gnu.org/software/bash/)
+![SQL](https://img.shields.io/badge/-Mysql-1f425f?style=flat&logo=mysql)&nbsp;
+![SQL](https://img.shields.io/badge/-Postgresql-1f425f?style=flat&logo=postgresql)&nbsp;
+![REDIS](https://img.shields.io/badge/-Redis-1f425f?style=flat&logo=redis)&nbsp;
+![MONGODB](https://img.shields.io/badge/-Mongodb-1f425f?style=flat&logo=mongodb)&nbsp;
+![SPRINGBOOT](https://img.shields.io/badge/-Springboot-1f425f?style=flat&logo=springboot)&nbsp;
+![SPRING](https://img.shields.io/badge/-Spring-1f425f?style=flat&logo=spring)&nbsp;
+![SPRING](https://img.shields.io/badge/-Gin-1f425f?style=flat&logo=gin)&nbsp;
+![SPRING](https://img.shields.io/badge/-Nestjs-1f425f?style=flat&logo=nestjs)&nbsp;
+![HIBERNATE](https://img.shields.io/badge/-Hibernate-1f425f?style=flat&logo=hibernate)&nbsp;
+![GITLAB](https://img.shields.io/badge/-Gitlab-1f425f?style=flat&logo=gitlab)&nbsp;
+![GITHUB](https://img.shields.io/badge/-Github-1f425f?style=flat&logo=github)&nbsp;
+![BITBUCKET](https://img.shields.io/badge/-Bitbucket-1f425f?style=flat&logo=bitbucket)&nbsp;
+![ELASTICSEARCH](https://img.shields.io/badge/-Elasticsearch-1f425f?style=flat&logo=elastic)&nbsp;
+![SWAGGER](https://img.shields.io/badge/-Openapi-1f425f?style=flat&logo=swagger)&nbsp;
+![KAFKA](https://img.shields.io/badge/-Kafka-1f425f?style=flat&logo=apache-kafka)&nbsp;
+![SPARK](https://img.shields.io/badge/-Spark-1f425f?style=flat&logo=apache-spark)&nbsp;
 
 ##
-![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat&color=blueviolet&label=COUNTER+VISITOR)
+![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat&color=blueviolet&label=VISITOR)
 
 
 
