@@ -3,7 +3,6 @@
 
 Daily Coders | Software Development Engineer 
 
-```
 Greetings, I'm Miftakhul, a Backend Software Engineer working at an IT consultancy in Singapore
 but based in Indonesia. My main tasks include building Rest APIs, debugging, adding new features,
 and conducting unit tests. I specialize in Java and Golang programming and have experience with
@@ -11,7 +10,6 @@ technologies like Spring Boot, SQL databases, Kafka, Elasticsearch, Spark, and H
 graduated in Informatics Engineering from the Sumatra Institute of Technology in 2021, focusing
 on Data and Software Engineering. Outside of technical skills, I'm a strong communicator, and a
 quick learner, and I thrive in dynamic environments where I can continuously learn and grow.
-```
 
 ##
 My tech stacks
@@ -40,17 +38,19 @@ My tech stacks
 ![SPARK](https://img.shields.io/badge/-Spark-1f425f?style=flat&logo=apache-spark)&nbsp;
 
 ##
-My activity and commit programming languages
+Activity recording
 
-![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz&layout=compact&theme=transparent)
+![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ##
 ![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat&color=blueviolet&label=VISITOR)
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz&layout=compact&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz)](https://github.com/mftakhullaziz/github-readme-stats)
 
 
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=ambient_gradient)
 
 
 <!-- I'm not a great Software Engineer. I continue to try to be a good Software Engineer with good habits. -->
