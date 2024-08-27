@@ -1,8 +1,23 @@
 <!-- 👋 Hi there! I'm **M** -->
-##  Greetings, I'm Miftakhul Aziz
+##  Regards I'm Mifta 
+### a Software Engineer from Indonesia | Daily Coders
+---
+## Tech Stack
 
+- **Languages:** Java, Golang, Javascript, Python, C++
+- **Backend:** Spring Boot, Go Gin
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, ElasticSeach
+- **Cloud Services:** AWS, Google Cloud
+---
+### My Activity
+
+![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+---
+### Visit Here
+![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=for-the-badge&color=blue)
+
+<!--
 Daily Coders | Software Development Engineer 
-
 Greetings, I'm Miftakhul, a Backend Software Engineer working at an IT consultancy in Singapore
 but based in Indonesia. My main tasks include building Rest APIs, debugging, adding new features,
 and conducting unit tests. I specialize in Java and Golang programming and have experience with
@@ -11,8 +26,9 @@ graduated in Informatics Engineering from the Sumatra Institute of Technology in
 on Data and Software Engineering. Outside of technical skills, I'm a strong communicator, and a
 quick learner, and I thrive in dynamic environments where I can continuously learn and grow.
 
-##
-My tech stacks
+
+
+### Favorite Stacks
 
 ![GOLANG](https://img.shields.io/badge/-Go-1f425f?style=flat&logo=go)&nbsp;
 ![JAVA](https://img.shields.io/badge/-Java-1f425f?style=flat&logo=openjdk)&nbsp;
@@ -37,13 +53,7 @@ My tech stacks
 ![KAFKA](https://img.shields.io/badge/-Kafka-1f425f?style=flat&logo=apache-kafka)&nbsp;
 ![SPARK](https://img.shields.io/badge/-Spark-1f425f?style=flat&logo=apache-spark)&nbsp;
 
-##
-Activity recording
 
-![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=ambient_gradient&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-##
-![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=flat&color=blueviolet&label=VISITOR)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mftakhullaziz&layout=compact&theme=transparent)
 
