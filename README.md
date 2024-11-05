@@ -1,6 +1,6 @@
 <!-- 👋 Hi there! I'm **M** -->
-##  Regards I'm Mifta 
-### a Software Engineer from Indonesia | Daily Coders
+##  Regards I'm Izza 
+### Software Engineer from Indonesia | Daily Coders
 ---
 ## Tech Stack
 
