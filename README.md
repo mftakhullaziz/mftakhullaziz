@@ -11,7 +11,7 @@
 ---
 ### My Activity
 
-![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![mftakhullaziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mftakhullaziz&show_icons=false&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 ### Visit Here
 ![Stay_Here](https://komarev.com/ghpvc/?username=mftakhullaziz&style=for-the-badge&color=blue)
