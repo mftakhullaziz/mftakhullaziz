@@ -1,9 +1,9 @@
-##  SOFTWARE ENGINEER | BACKEND | ID
+##  Remind me, I just Software Engineer | Backend | ID
 
 <!-- 👋 Hi there! I'm **M** -->
 <!--
 ##  Regards I'm Izza 
-### Software Engineer from Indonesia | Daily Coders
+### Remind me, I just Software Engineer from Indonesia | Daily Coders
 ---
 ## Tech Stack
 
